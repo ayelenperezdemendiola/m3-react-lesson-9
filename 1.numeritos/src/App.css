@@ -1,0 +1,24 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.app{
+  background-color: lightseagreen;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 24px;
+  color: whitesmoke;
+  width: 200px;
+
+}
+.number{
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.numbers--list{
+  padding: 30px;
+}

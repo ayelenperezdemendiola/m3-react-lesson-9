@@ -1,0 +1,22 @@
+.general--container{
+  border: solid 2px palevioletred;
+}
+.section--container{
+  border: solid 2px gray;
+  margin: 5px;
+}
+.click--container{
+  border: solid 2px lightblue;
+  margin: 5px;
+  cursor: pointer;
+}
+.collapsible--container{
+  border: solid 2px blue;
+  margin: 5px;
+  display: none;
+}
+.open--container{}
+
+.open--container .collapsible--container{
+  display: block;
+}
